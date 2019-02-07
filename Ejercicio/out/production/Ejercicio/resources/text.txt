@@ -1,0 +1,5 @@
+No todos los patrones iban a ser buenos
+existen los llamados antipatrones
+una especie de gemelos malvados que nos
+llevan a implementar malas soluciones reconocer
+salas

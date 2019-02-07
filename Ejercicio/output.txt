@@ -1,0 +1,18 @@
+Texto sin filtro
+No todos los patrones iban a ser buenos
+existen los llamados antipatrones
+una especie de gemelos malvados que nos
+llevan a implementar malas soluciones reconocer
+salas
+
+Palabras que empiezan con t/T
+todos
+
+Palabras Con 5 letras
+todos
+malas
+salas
+
+Palabras palindromos
+reconocer
+salas
